@@ -1,4 +1,5 @@
 📖 CodeConnect - Formulário de Login em React
+
 Projeto de um formulário de login responsivo desenvolvido com React, JSX e estilizado com CSS customizado, aplicando conceitos de componentização e manipulação de estado.
 
 ## ✔️ Técnicas e tecnologias utilizadas:
@@ -26,7 +27,9 @@ Execute o projeto usando um servidor local (ex: Live Server no VS Code) ou abra 
 
 Para adaptar a um projeto Vite + React, basta portar os componentes JSX para arquivos .jsx, configurar vite.config.js e adicionar o Tailwind (opcionalmente).
 
+
 🎨 Estilos
+
 Paleta de cores e fontes definidas via CSS custom properties (:root).
 
 Responsivo e clean.
