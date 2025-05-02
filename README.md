@@ -15,10 +15,12 @@ Projeto de um formulário de login responsivo desenvolvido com React, JSX e esti
 
 
 📸 Demonstração:
+
 ![demonstracao-site-login](https://github.com/user-attachments/assets/341e32e2-bde1-4092-96fd-caaccbee109a)
 
 
 📦 Como rodar o projeto
+
 Clone o repositório ou baixe os arquivos.
 
 Certifique-se de ter o Node.js instalado.
@@ -38,6 +40,7 @@ Responsivo e clean.
 
 
 📌 Observações
+
 Este projeto usa React via CDN + Babel diretamente no HTML, ideal para protótipos ou estudos rápidos. Para projetos de produção, recomenda-se o uso de um bundler como Vite ou Webpack.
 
 
